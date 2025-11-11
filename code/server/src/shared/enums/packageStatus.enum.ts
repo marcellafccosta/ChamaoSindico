@@ -1,0 +1,6 @@
+export enum packageStatus {
+  ENTREGUE = "ENTREGUE",
+  ATRASADO = "ATRASADO",
+  CANCELADO = "CANCELADO",
+  PENDENTE = "PENDENTE",
+}
