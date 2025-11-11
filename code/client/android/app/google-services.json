@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349269572322",
+    "project_id": "chama-o-sindico-52d5b",
+    "storage_bucket": "chama-o-sindico-52d5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349269572322:android:3e17e672f31dedd42a7cbb",
+        "android_client_info": {
+          "package_name": "com.example.client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdRLTVj3JNJp4RY-3S0KoJcUZsP1cFW7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
